@@ -1,3 +1,9 @@
+
+Grupo : 
+Carlos Bucker - RM 555812
+Luca Tiepolo Schmidt Morete - RM 560255
+Alexandre Ferreira - RM 565626
+
 # Dashboard de Monitoramento Espacial - Global Solution 2026
 
 Projeto de Front-end desenvolvido para a Global Solution. 
